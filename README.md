@@ -5,9 +5,13 @@ A unique application enabling photo browsing and viewing through EEG-based motor
 
 # Features
   •	**Brain-Controlled Interaction**: Navigate and view photos using EEG signals from motor imagery.
+  
   •	**Customizable EEG Signal Processing**: Built-in support for processing raw EEG data, including filtering, feature extraction, and classification.
+  
   •	**User-Friendly Interface**: A clean and interactive UI for smooth photo viewing.
+  
   •	**Real-Time EEG Analysis**: The system processes and responds to motor imagery signals in real-time.
+  
   •	**Extensible Framework**: Modular design allows integration with different EEG devices and classification algorithms.
 
 
